@@ -30,11 +30,7 @@
 
 ---
 
-## 🐍 Snake Game dos Meus Commits
 
-![snake gif](https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🤝 Bora trocar uma ideia?
 
