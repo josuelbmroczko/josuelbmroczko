@@ -30,12 +30,9 @@
 
 ---
 
-### 📈 GitHub Stats (porque número é daora):
+## 🐍 Snake Game dos Meus Commits
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" />
-</div>
+![snake gif](https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg)
 
 ---
 
