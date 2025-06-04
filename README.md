@@ -1,9 +1,8 @@
-### 👋 Olá! Eu sou o [Seu Nome]
+### 👋 Olá! Eu sou o Josuel
 
 - 💻 Desenvolvedor Front-end
-- 🎯 Foco: React.js | Styled Components
+- 🎯 Foco: React.js
 - 🚀 Fundador da Loquaz
-- 🥋 Faixa preta no Taekwondo (literalmente 😄)
 
 ---
 
