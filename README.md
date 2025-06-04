@@ -1,25 +1,48 @@
-### 👋 Olá! Eu sou o Josuel
-
-- 💻 Desenvolvedor Front-end
-- 🎯 Foco: React.js
-- 🚀 Fundador da Loquaz
-
----
-
-#### 🧰 Tecnologias:
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<h1 align="center">Fala aí, eu sou o Josuel 👨‍💻☕</h1>
+<p align="center">
+  Front-end developer movido a café e pixels.<br />
+  Fundador da <b>Loquaz</b> — onde ideias viram código.
+</p>
 
 ---
 
-#### 📈 GitHub Stats:
-![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+### 🚀 Tech Stack que eu uso com gosto:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+<div align="center">
+  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Styled Components" height="30" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+  <img alt="Unity" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
 
 ---
 
-#### 🏆 Conquistas:
-![Trophy](https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onestar&row=1&column=7)
+### 🧩 Algumas curiosidades:
+
+- ☕ Café é meu combustível oficial.
+- 🎮 Já me aventurei com Unity e jogos.
+- 🔥 Faço do front-end minha zona de criatividade.
+- 🧠 Estou sempre aprendendo algo novo (até fora da web!).
 
 ---
+
+### 📈 GitHub Stats (porque número é daora):
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" />
+</div>
+
+---
+
+### 🤝 Bora trocar uma ideia?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">LinkedIn</a> • 
+  <a href="mailto:seuemail@email.com">Email</a> • 
+  <a href="https://loquaz.com.br">Site da Loquaz</a>
+</div>
