@@ -49,24 +49,25 @@
 
 ## 🐍 Contribuições em movimento
 
+<!-- Este é um comentário. Ele não será exibido no perfil do GitHub. 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josuelbmroczko/josuelbmroczko/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josuelbmroczko/josuelbmroczko/output/github-contribution-grid-snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/josuelbmroczko/josuelbmroczko/output/github-contribution-grid-snake.svg">
 </picture>
-
+-->
 ---
 
 ## 🤝 Vamos nos conectar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">
+  <a href="[https://www.linkedin.com/in/SEULINKEDIN/](https://www.linkedin.com/in/josuel-mroczko-677b36183/)" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josuel-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:josuelbeserramroczko@email.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contato-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://loquaz.com.br" target="_blank">
+  <a href="[https://loquaz.com.b](https://app-loquaz.com/)r" target="_blank">
     <img alt="Loquaz" src="https://img.shields.io/badge/Loquaz-Site-FFD700?style=for-the-badge&logo=webflow&logoColor=black" />
   </a>
 </div>
