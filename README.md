@@ -23,26 +23,27 @@
 
 ### 🧩 Algumas curiosidades:
 
-- ☕ Café é meu combustível oficial.
-- 🎮 Já me aventurei com Unity e jogos.
-- 🔥 Faço do front-end minha zona de criatividade.
+- ☕ Café é meu combustível oficial.  
+- 🎮 Já me aventurei com Unity e jogos.  
+- 🔥 Faço do front-end minha zona de criatividade.  
 - 🧠 Estou sempre aprendendo algo novo (até fora da web!).
 
 ---
-
-
 
 ### 🤝 Bora trocar uma ideia?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">LinkedIn</a> • 
   <a href="mailto:seuemail@email.com">Email</a> • 
-  <a href="https://loquaz.com.br">Site da Loquaz</a>
+  <a href="https://loquaz.com.br" target="_blank">Site da Loquaz</a>
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josuelbmroczko/josuelbmroczko/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josuelbmroczko/josuelbmroczko/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/josuelbmroczko/josuelbmroczko/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
+### 📈 Meu gráfico de contribuições:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josuelbmroczko/josuelbmroczko/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josuelbmroczko/josuelbmroczko/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/josuelbmroczko/josuelbmroczko/output/github-contribution-grid-snake.svg">
+</picture>
