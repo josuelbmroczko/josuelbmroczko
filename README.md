@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF,042940&height=200&section=header&text=Josuel%20Mroczko%20💻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Back-end+Java+%26+Spring;Especialista+em+APIs+RESTful+e+PostgreSQL;Founder+of+Loquaz+💡;Full-stack+nas+horas+vagas+☕&center=true&width=550&height=45&font=Fira+Code&pause=1000&color=00BFFF&vCenter=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Back-end+Java+%26+Spring;Especialista+em+APIs+RESTful+e+PostgreSQL;Founder+of+Loquaz+💡;Full-stack+nas+horas+vagas+☕&center=true&width=450&height=45&font=Fira+Code&pause=1000&color=00BFFF&vCenter=true" />
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 8px;">
@@ -47,6 +47,7 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=josuelbmroczko&show_icons=true&theme=catppuccin_dark&count_private=true&hide_title=true&hide_border=true&border_radius=10" />
+  <br>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuelbmroczko&layout=compact&theme=catppuccin_dark&hide_border=true&border_radius=10" />
 </div>
 
