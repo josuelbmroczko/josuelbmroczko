@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Josuel%20Mroczko%20💻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Josuel%20Mroczko&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Back-end+Java+%26+Spring;Especialista+em+APIs+RESTful+e+PostgreSQL;Founder+of+Loquaz+💡;Full-stack+nas+horas+vagas+☕&center=true&width=550&height=45&font=Fira+Code&pause=1000&color=00F260&vCenter=true" />
@@ -7,7 +7,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-11+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ---
